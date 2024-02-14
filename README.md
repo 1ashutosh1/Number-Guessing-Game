@@ -1,2 +1,2 @@
 # Number-Guessing-Game
-A Simple Number Guessing Game Developed Using JavaScript
+A Simple Number Guessing Game Developed Using Javascript
